@@ -1,4 +1,4 @@
-![Header](https://github.com/Natali0258/Natali0258/blob/main/assets/photo.jpg)
+##Natalia Tribendis
 
 ##I'm Frontend-developer
 
