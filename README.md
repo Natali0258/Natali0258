@@ -12,13 +12,11 @@
 
 ### Contacts
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=fot-the-badge&logo=Telegram&logoColor=29B6F6)
-![Phone](https://img.shields.io/badge/-Phone-090909?style=fot-the-badge&logo=Phone&logoColor=000000)
 
-
-
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **Natali0258/Natali0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
