@@ -11,7 +11,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=fot-the-badge&logo=Redux&logoColor=6C4EB0)
 
 ### Contacts
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=fot-the-badge&logo=Telegram&logoColor=29B6F6)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=fot-the-badge&logo=Telegram&logoColor=29B6F6)](https://t.me/Natali0258)
 
 
 <!--
