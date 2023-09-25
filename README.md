@@ -5,10 +5,10 @@
 ## I'm Frontend-developer
 
 ### Project
-[* Bicycle rental service](https://natali0258.github.io/Final_Project/)
-* Canban-board
-* Design agency landing page
-* Weather
+- Bicycle rental service [look](https://natali0258.github.io/Final_Project/)
+- Canban-board 
+- Design agency landing page 
+- Weather
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E65100?style=fot-the-badge&logo=HTML&logoColor=E65100)
