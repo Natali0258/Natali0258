@@ -1,9 +1,11 @@
 # Natalia Tribendis
 
+![photo](https://github.com/Natali0258/Natali0258/blob/main/assets/photo.jpg)
+
 ## I'm Frontend-developer
 
 ### Project
-* Bicycle rental service
+[* Bicycle rental service](https://natali0258.github.io/Final_Project/)
 * Canban-board
 * Design agency landing page
 * Weather
