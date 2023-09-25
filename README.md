@@ -5,9 +5,9 @@
 ## I'm Frontend-developer
 
 ### Project
-- Bicycle rental service [look](https://natali0258.github.io/Final_Project/)
-- Canban-board 
-- Design agency landing page 
+- Bicycle rental service  [look](https://natali0258.github.io/Final_Project/)
+- Canban-board  
+- Design agency landing page  
 - Weather
 
 ### Languages and Tools
