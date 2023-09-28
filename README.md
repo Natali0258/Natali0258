@@ -8,7 +8,7 @@
 - Bicycle rental service  [look](https://natali0258.github.io/Final_Project/)
 - Canban-board  [look](https://natali0258.github.io/Kanban-board/) 
 - Design agency landing page  
-- Weather
+- Weather  [look](https://natali0258.github.io/Weather/)
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E65100?style=fot-the-badge&logo=HTML&logoColor=E65100)
