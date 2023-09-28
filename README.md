@@ -6,7 +6,7 @@
 
 ### Project
 - Bicycle rental service  [look](https://natali0258.github.io/Final_Project/)
-- Canban-board  
+- Canban-board  [look](https://natali0258.github.io/Kanban-board/) 
 - Design agency landing page  
 - Weather
 
